@@ -2,6 +2,16 @@
     background-color: Yellow;
 }
 
+.two {
+    background-color: Purple;
+    text-align: center;
+}
+
+.three {
+    background-color: Orange;
+    text-align: left;
+}
+
 #two {
     color: Red;
     font-size: 200%;
